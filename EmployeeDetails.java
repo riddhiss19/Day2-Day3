@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Employee 
 {
 	private int eid;
-	private String name=new String(" ");
+	private String name=new String();
 	private float salary;
 
 	public void inputDetails()
